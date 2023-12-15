@@ -20,7 +20,7 @@ ___
 
 ### 1.2. Faire un Fork du projet :
 
-Pour commencer vous devez faire un fork du projet pour ce faire rendez vous [ici](https://github.com/xAtsukiSh/Orion-launcher).
+Pour commencer vous devez faire un fork du projet pour ce faire rendez vous [ici](https://github.com/xAtsukiSh/Orion-Launcher).
 
 - Ensuite cliquez sur "Fork" :
 
@@ -338,7 +338,7 @@ phpinfo( );
 ___
 ### 3.3. Mise en place du backend du launcher
 
-Maintenant que le serveur web est installé et fonctionnel, il faut maintenant installer le backend du launcher. Pour ce faire, rendez vous sur le [la branche web du projet](https://github.com/xAtsukiSh/Orion-launcher/tree/WEB-Folder). 
+Maintenant que le serveur web est installé et fonctionnel, il faut maintenant installer le backend du launcher. Pour ce faire, rendez vous sur le [la branche web du projet](https://github.com/xAtsukiSh/Orion-Launcher/tree/WEB-Folder). 
 
 - Cliquez sur le bouton "Code" et sur "Download ZIP"
 - Une fois le fichier zip téléchargé, extraitez le fichier zip.

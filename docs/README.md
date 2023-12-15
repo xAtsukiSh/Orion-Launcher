@@ -3,12 +3,12 @@
 <h1 align="center">CraftLaunch</h1>
 
 [<p align="center">]()
-![GitHub all releases](https://img.shields.io/github/downloads/xAtsukiSh/Orion-launcher/total?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/xAtsukiSh/Orion-Launcher/total?style=for-the-badge)
 ![Discord](https://img.shields.io/discord/819729377650278420?style=for-the-badge)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/xAtsukiSh/Orion-launcher?style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/xAtsukiSh/Orion-Launcher?style=for-the-badge)
 [<p align="center">]()
-![GitHub forks](https://img.shields.io/github/forks/xAtsukiSh/Orion-launcher?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/xAtsukiSh/Orion-launcher?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/xAtsukiSh/Orion-Launcher?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/xAtsukiSh/Orion-Launcher?style=for-the-badge)
 
 <p align="center">
     <a href="http://discord.xAtsukiSh.fr">
@@ -72,9 +72,9 @@ Si vous téléchargez à partir des Releases, sélectionnez le programme d'insta
 
  Plateforme | Fichier |
 | -------- | ---- |
-| Windows x64 | `Orion-launcher-win-x64.exe ` |
-| macOS x64 | `Orion-launcher-mac-x64.dmg` |
-| macOS arm64 | `Orion-launcher-mac-arm64.dmg` |
-| Linux x64 | `Orion-launcher-linux-x86_64.AppImage` |
+| Windows x64 | `Orion-Launcher-win-x64.exe ` |
+| macOS x64 | `Orion-Launcher-mac-x64.dmg` |
+| macOS arm64 | `Orion-Launcher-mac-arm64.dmg` |
+| Linux x64 | `Orion-Launcher-linux-x86_64.AppImage` |
 
 ---

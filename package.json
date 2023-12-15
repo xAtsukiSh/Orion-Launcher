@@ -1,0 +1,39 @@
+{
+    "name": "orion-launcher",
+    "preductname": "Orion Launcher",
+    "version": "1.0.0",
+    "description": "Launcher Mincraft custom (crack, premium)",
+    "main": "src/app.js",
+    "author": "xAtsukiSh",
+    "url": "http://launcher.atsuki.fr/launcher-orion",
+    "engines": {
+        "node": ">18.x.x"
+    },
+    "scripts": {
+        "start": "cross-env-shell NODE_ENV=dev electron .",
+        "build": "node build.js --build",
+        "icon": "node build.js --icon=https://raw.githubusercontent.com/xAtsukiSh/Orion-launcher/master/src/assets/images/icon.png",
+        "dev": "nodemon --exec npm start"
+    },
+    "license": "CC0",
+    "nodemonConfig": {
+        "ext": "js,html,css"
+    },
+    "dependencies": {
+        "electron-updater": "^6.1.4",
+        "minecraft-java-core": "^3.8.1",
+        "node-fetch": "^2.7.0"
+    },
+    "devDependencies": {
+        "cross-env": "^7.0.3",
+        "electron": "^27.0.4",
+        "electron-builder": "^24.6.4",
+        "jimp": "^0.22.10",
+        "nodemon": "^3.0.1",
+        "png2icons": "^2.0.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xAtsukiSh/Orion-launcher.git"
+    }
+}

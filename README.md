@@ -18,4 +18,4 @@
 
 - 🟢 Statut serveur complet.
 
-# ❗Ne pas retirer lles lignes 34 à 39 pour mise a jour auto du launcher
+# ❗Ne pas retirer les lignes 34 à 39 pour mise a jour auto du launcher
